@@ -1,0 +1,7 @@
+flask
+language-tool-python
+transformers
+torch
+gi
+requests
+
