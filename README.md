@@ -26,7 +26,7 @@ Response:
   "corrected": "He goes to school every day."
 }
 ```
-###POST `/suggest`
+### POST `/suggest`
 ```json
 {
   "text": "Once upon a time,"
